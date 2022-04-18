@@ -6,7 +6,7 @@ import 'package:extended_image/src/gesture/extended_image_gesture.dart';
 import 'package:extended_image/src/extended_image_typedef.dart';
 import 'package:extended_image/src/extended_image_utils.dart';
 import 'package:extended_image/src/image/extended_raw_image.dart';
-import 'package:extended_image_library/extended_image_library.dart';
+import 'package:eshop_extended_image_library/extended_image_library.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart' hide Image;
